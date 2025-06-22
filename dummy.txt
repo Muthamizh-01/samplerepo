@@ -1,3 +1,4 @@
 Hi My Name is Muthamizh
 
-this is just a introduction for checking up and understanding git hub
+this is just a introduction for checking up and understanding 
+adding more information, checjking up git add .
